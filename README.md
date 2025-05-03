@@ -26,4 +26,4 @@ cd catch-the-cat-game
 - Your score will be displayed at the top, and you'll get an alert with your final score when the game ends.
 
 ## Enjoy the Game!
-I hope you enjoy playing Catch the Cat! If you have any questions or feedback, feel free to reach out. Happy catching!
+I hope you enjoy playing Catch the Cat! If you have any questions or feedback, feel free to reach out. Happy catching!...
